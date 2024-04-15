@@ -128,6 +128,6 @@ node_filesystem_avail_bytes
 
 1. Сохранил Dashboard в json файл.
 
-2. Ссылка на файл: https://github.com/DemoniumBlack/fedorchukds-devops-33-28/blob/main/SRC/Dashboard/dashboard.json
+2. Ссылка на файл: https://github.com/RikLedger/10-monitoring-03-grafana/blob/main/SRC/Dashboard%20/dashboard.json
 
 ---
